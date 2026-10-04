@@ -15,7 +15,7 @@ Cofundador de **SIS Analytics**.
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Fabric-117865?style=for-the-badge&logo=fabric&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Factory-0062AD?style=for-the-badge&logo=datafactory&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-0062AD?style=for-the-badge&logo=datafactory&logoColor=white)
 
 
 
